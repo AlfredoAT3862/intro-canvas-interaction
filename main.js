@@ -18,7 +18,7 @@ class Circle {
         this.color = color;
         this.text = text;
         this.speed = speed;
-        this.maxSpeed = 0; // Velocidad constante
+        this.maxSpeed = 1; // Velocidad constante
         this.isDestroyed = false; // Indica si el círculo ha sido destruido
     }
 
