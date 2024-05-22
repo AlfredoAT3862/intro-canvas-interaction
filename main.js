@@ -208,3 +208,8 @@ bubbleImage.onload = function() {
     updateCircles(); // Comienza el juego cuando la imagen de la burbuja se carga completamente
 };
 
+
+bubbleImage.onload = function() {
+    updateCircles(); // Comienza el juego cuando la imagen de la burbuja se carga completamente
+};
+
